@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "8AR1pbfgVKznJjrBIsK8bYFFQWLJtnKFGQgfr5L7e4DExfqP28gbnhoqwXefA1H50D1FvdS3CgdUz6YLU9uIBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sekne\\OneDrive\\Documents\\GitHub\\Testing-FluentAssertions-xUNIT-ASP.NET-Core2\\NewsOutlet.Data.Models\\NewsOutlet.Data.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sekne\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\sekne\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\sekne\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\sekne\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\sekne\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\sekne\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.NETCore.App' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-7mfr-774f-w5r9",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+F:\ASP.NET Core Unit Testing 2017 - 2018\NewsOutlet.Common\bin\Debug\netcoreapp2.0\NewsOutlet.Common.deps.json
+F:\ASP.NET Core Unit Testing 2017 - 2018\NewsOutlet.Common\bin\Debug\netcoreapp2.0\NewsOutlet.Common.dll
+F:\ASP.NET Core Unit Testing 2017 - 2018\NewsOutlet.Common\bin\Debug\netcoreapp2.0\NewsOutlet.Common.pdb
+F:\ASP.NET Core Unit Testing 2017 - 2018\NewsOutlet.Common\obj\Debug\netcoreapp2.0\NewsOutlet.Common.csproj.AssemblyReference.cache
+F:\ASP.NET Core Unit Testing 2017 - 2018\NewsOutlet.Common\obj\Debug\netcoreapp2.0\NewsOutlet.Common.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Core Unit Testing 2017 - 2018\NewsOutlet.Common\obj\Debug\netcoreapp2.0\NewsOutlet.Common.AssemblyInfoInputs.cache
+F:\ASP.NET Core Unit Testing 2017 - 2018\NewsOutlet.Common\obj\Debug\netcoreapp2.0\NewsOutlet.Common.AssemblyInfo.cs
+F:\ASP.NET Core Unit Testing 2017 - 2018\NewsOutlet.Common\obj\Debug\netcoreapp2.0\NewsOutlet.Common.csproj.CoreCompileInputs.cache
+F:\ASP.NET Core Unit Testing 2017 - 2018\NewsOutlet.Common\obj\Debug\netcoreapp2.0\NewsOutlet.Common.dll
+F:\ASP.NET Core Unit Testing 2017 - 2018\NewsOutlet.Common\obj\Debug\netcoreapp2.0\NewsOutlet.Common.pdb

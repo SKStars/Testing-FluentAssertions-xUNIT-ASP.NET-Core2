@@ -1,0 +1,13 @@
+F:\ASP.NET Core Unit Testing 2017 - 2018\NewsOutlet.Data\bin\Debug\netcoreapp2.0\NewsOutlet.Data.deps.json
+F:\ASP.NET Core Unit Testing 2017 - 2018\NewsOutlet.Data\bin\Debug\netcoreapp2.0\NewsOutlet.Data.dll
+F:\ASP.NET Core Unit Testing 2017 - 2018\NewsOutlet.Data\bin\Debug\netcoreapp2.0\NewsOutlet.Data.pdb
+F:\ASP.NET Core Unit Testing 2017 - 2018\NewsOutlet.Data\bin\Debug\netcoreapp2.0\NewsOutlet.Data.Models.dll
+F:\ASP.NET Core Unit Testing 2017 - 2018\NewsOutlet.Data\bin\Debug\netcoreapp2.0\NewsOutlet.Data.Models.pdb
+F:\ASP.NET Core Unit Testing 2017 - 2018\NewsOutlet.Data\obj\Debug\netcoreapp2.0\NewsOutlet.Data.csproj.AssemblyReference.cache
+F:\ASP.NET Core Unit Testing 2017 - 2018\NewsOutlet.Data\obj\Debug\netcoreapp2.0\NewsOutlet.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Core Unit Testing 2017 - 2018\NewsOutlet.Data\obj\Debug\netcoreapp2.0\NewsOutlet.Data.AssemblyInfoInputs.cache
+F:\ASP.NET Core Unit Testing 2017 - 2018\NewsOutlet.Data\obj\Debug\netcoreapp2.0\NewsOutlet.Data.AssemblyInfo.cs
+F:\ASP.NET Core Unit Testing 2017 - 2018\NewsOutlet.Data\obj\Debug\netcoreapp2.0\NewsOutlet.Data.csproj.CoreCompileInputs.cache
+F:\ASP.NET Core Unit Testing 2017 - 2018\NewsOutlet.Data\obj\Debug\netcoreapp2.0\NewsOutlet.Data.csproj.CopyComplete
+F:\ASP.NET Core Unit Testing 2017 - 2018\NewsOutlet.Data\obj\Debug\netcoreapp2.0\NewsOutlet.Data.dll
+F:\ASP.NET Core Unit Testing 2017 - 2018\NewsOutlet.Data\obj\Debug\netcoreapp2.0\NewsOutlet.Data.pdb

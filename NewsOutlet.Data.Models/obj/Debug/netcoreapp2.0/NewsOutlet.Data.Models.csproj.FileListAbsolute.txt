@@ -1,0 +1,10 @@
+F:\ASP.NET Core Unit Testing 2017 - 2018\NewsOutlet.Data.Models\bin\Debug\netcoreapp2.0\NewsOutlet.Data.Models.deps.json
+F:\ASP.NET Core Unit Testing 2017 - 2018\NewsOutlet.Data.Models\bin\Debug\netcoreapp2.0\NewsOutlet.Data.Models.dll
+F:\ASP.NET Core Unit Testing 2017 - 2018\NewsOutlet.Data.Models\bin\Debug\netcoreapp2.0\NewsOutlet.Data.Models.pdb
+F:\ASP.NET Core Unit Testing 2017 - 2018\NewsOutlet.Data.Models\obj\Debug\netcoreapp2.0\NewsOutlet.Data.Models.csproj.AssemblyReference.cache
+F:\ASP.NET Core Unit Testing 2017 - 2018\NewsOutlet.Data.Models\obj\Debug\netcoreapp2.0\NewsOutlet.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Core Unit Testing 2017 - 2018\NewsOutlet.Data.Models\obj\Debug\netcoreapp2.0\NewsOutlet.Data.Models.AssemblyInfoInputs.cache
+F:\ASP.NET Core Unit Testing 2017 - 2018\NewsOutlet.Data.Models\obj\Debug\netcoreapp2.0\NewsOutlet.Data.Models.AssemblyInfo.cs
+F:\ASP.NET Core Unit Testing 2017 - 2018\NewsOutlet.Data.Models\obj\Debug\netcoreapp2.0\NewsOutlet.Data.Models.csproj.CoreCompileInputs.cache
+F:\ASP.NET Core Unit Testing 2017 - 2018\NewsOutlet.Data.Models\obj\Debug\netcoreapp2.0\NewsOutlet.Data.Models.dll
+F:\ASP.NET Core Unit Testing 2017 - 2018\NewsOutlet.Data.Models\obj\Debug\netcoreapp2.0\NewsOutlet.Data.Models.pdb
